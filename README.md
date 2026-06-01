@@ -48,15 +48,6 @@
 
 ---
 
-### 📊 Diagnostics
-
-<p align="center">
-  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=Debajit753&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=89b4fa&text_color=cdd6f4&icon_color=89b4fa" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs?username=Debajit753&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=89b4fa&text_color=cdd6f4&icon_color=89b4fa" alt="Top Languages" width="48%" />
-</p>
-
----
-
 ### ✉️ Connect
 
 *   **LinkedIn:** [debajit-mandal](https://www.linkedin.com/in/debajit-mandal/)
