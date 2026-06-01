@@ -1,46 +1,55 @@
-# 🌸 Debajit Mandal
+# 🪄 Debajit
 
-> *"It’s the small, seemingly insignificant memories that we hold onto the most."* — Frieren
+> *"The journey itself is the adventure."* — Frieren
 
-I am a frontend developer and software explorer, documenting my journey step-by-step, code by code. Like a mage collecting ordinary spells, I enjoy learning different tools, frameworks, and patterns to build things that make a difference.
-
----
-
-### 📖 The Magic Grimoire (Tech Stack)
-
-A collection of spells and tools I have gathered along the way:
-
-```yml
-Core Spells:
-  - Language: [JavaScript, TypeScript, Python, C++]
-  - Interface: [React, CSS3, HTML5]
-  - Alchemy:   [Node.js, Git, Modern Web APIs]
+```
+[System.Diagnostics]
+Status: Active | Level: Frontend Explorer
+Focus:  Synthesizing interactive user interfaces and web applications
+Quest:  Learning new spells (frameworks, performance optimization, design patterns)
 ```
 
 ---
 
-### 🗺️ The Journey (Current Focus)
+### 📜 The Magic Grimoire (Tech Stack)
 
-- ❄️ **Exploring:** Interactive user interfaces, real-time web applications, and smooth client-side performance.
-- 🧪 **Synthesizing:** Developing and refining tools like [MyAnimangalist](https://github.com/Debajit753/MyAnimangalist) and [researchconnect](https://github.com/Debajit753/researchconnect).
-- 📜 **Studying:** Clean code design, software architecture, and optimizing web experiences.
+```javascript
+const debajit = {
+  class: "Mage of the Web",
+  manaSource: ["JavaScript", "TypeScript", "Node.js"],
+  alchemy: ["React", "HTML5", "CSS3"],
+  ancientRunes: ["Python", "C++", "Git"]
+};
+```
 
 ---
 
-### 📊 Journey Diagnostics
+### 🗺️ Journey Logs (Active Projects)
+
+*   **[MyAnimangalist](https://github.com/Debajit753/MyAnimangalist)** - A dedicated portal to catalog and track anime and manga.
+*   **[researchconnect](https://github.com/Debajit753/researchconnect)** - Connecting and mapping research workflows.
+
+---
+
+### 📊 Diagnostic Stats
 
 <p align="center">
-  <a href="https://github.com/Debajit753">
-    <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Debajit753&show_icons=true&theme=transparent&title_color=89b4fa&text_color=cdd6f4&icon_color=89b4fa&border_color=313244" />
-    <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Debajit753&layout=compact&theme=transparent&title_color=89b4fa&text_color=cdd6f4&icon_color=89b4fa&border_color=313244" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=Debajit753&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=89b4fa&text_color=cdd6f4&icon_color=89b4fa" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Debajit753&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=89b4fa&text_color=cdd6f4&icon_color=89b4fa" alt="Top Languages" width="48%" />
 </p>
 
 ---
 
-### ✉️ Send a Message (Contact)
+### ✉️ Establish Connection
 
-* **LinkedIn:** [debajit-mandal](https://www.linkedin.com/in/debajit-mandal/)
-* **GitHub:** [@Debajit753](https://github.com/Debajit753)
+```bash
+$ curl -s https://linkedin.com/in/debajit-mandal/ --message "Hello, Debajit!"
+```
 
-*"Even if it’s just a hobby, the time we spend enjoying things is never wasted."* 🌸
+*   **LinkedIn:** [debajit-mandal](https://www.linkedin.com/in/debajit-mandal/)
+*   **GitHub:** [@Debajit753](https://github.com/Debajit753)
+
+---
+<p align="center">
+  <sub>*"Even if it’s small, changing someone's life is what matters." — Himmel*</sub>
+</p>
