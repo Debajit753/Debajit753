@@ -40,8 +40,9 @@
 
 ### 🗺️ Journey Logs
 
-*   **[MyAnimangalist](https://github.com/Debajit753/MyAnimangalist)** — Anime & manga cataloging portal
 *   **[researchconnect](https://github.com/Debajit753/researchconnect)** — Research workflow mapping tool
+*   **[Asciify](https://github.com/Debajit753/ASCIIFY)** — Turn any video into living text.
+*   **[HORIZON](https://github.com/Debajit753/HORIZON)** — A calm, minimalist browser game. Each round shows a real city and a live sky gradient.
 
 ---
 
