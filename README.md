@@ -41,23 +41,6 @@ $ curl -s https://api.debajit.dev/v1/whoami | jq
 
 <br/>
 
-```console
-$ systemctl status debajit.service
-```
-
-```diff
-  ● debajit.service — Backend & AI/ML Engineer
-      Loaded: loaded (/usr/lib/systemd/system/debajit.service; enabled)
-      Active: active (building) — no downtime recorded
-       Tasks: too many (limit: none)
-      Memory: mostly PostgreSQL query plans and model weights
-         CPU: at 100% training models (GPU on wishlist)
-
-+ dev debajit[1]: learning  → API design ................ ✔ done
-  dev debajit[1]: learning  → database optimization ..... ⏳ in progress
-  dev debajit[1]: learning  → machine learning .......... ⏳ in progress
-- dev debajit[1]: warning   → side-project count exceeds sleep budget
-```
 
 <br/>
 
