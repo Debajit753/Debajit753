@@ -1,12 +1,12 @@
 <!-- ░░░ DEBAJIT · profile readme ░░░ -->
 
 ```ansi
-[38;5;51m██████╗ ███████╗██████╗  █████╗      ██╗██╗████████╗[0m
-[38;5;45m██╔══██╗██╔════╝██╔══██╗██╔══██╗     ██║██║╚══██╔══╝[0m
-[38;5;39m██║  ██║█████╗  ██████╔╝███████║     ██║██║   ██║[0m
-[38;5;33m██║  ██║██╔══╝  ██╔══██╗██╔══██║██   ██║██║   ██║[0m
-[38;5;63m██████╔╝███████╗██████╔╝██║  ██║╚█████╔╝██║   ██║[0m
-[38;5;99m╚═════╝ ╚══════╝╚═════╝ ╚═╝  ╚═╝ ╚════╝ ╚═╝   ╚═╝[0m
+██████╗ ███████╗██████╗  █████╗      ██╗██╗████████╗
+██╔══██╗██╔════╝██╔══██╗██╔══██╗     ██║██║╚══██╔══╝
+██║  ██║█████╗  ██████╔╝███████║     ██║██║   ██║
+██║  ██║██╔══╝  ██╔══██╗██╔══██║██   ██║██║   ██║
+██████╔╝███████╗██████╔╝██║  ██║╚█████╔╝██║   ██║
+╚═════╝ ╚══════╝╚═════╝ ╚═╝  ╚═╝ ╚════╝ ╚═╝   ╚═╝
 ```
 
 <p align="left">
@@ -17,7 +17,7 @@
   <img src="https://komarev.com/ghpvc/?username=Debajit753&label=visitors&color=8957e5&style=for-the-badge" alt="visitors"/>
 </p>
 
----
+
 
 ### `$ whoami`
 
@@ -32,7 +32,6 @@
 }
 ```
 
----
 
 ### `$ systemctl status debajit.service`
 
@@ -49,7 +48,7 @@ learning:
   - sleep budget ............ 🔴 exceeded by side-projects
 ```
 
----
+
 
 ### `$ ls ~/projects`
 
@@ -60,7 +59,7 @@ learning:
 | [**researchconnect**](https://github.com/Debajit753/researchconnect) | research workflow mapping tool | 🟢 `live` |
 | **next** | something new is compiling… | 🟡 `building` |
 
----
+
 
 ### `$ cat ~/.stack`
 
@@ -76,7 +75,7 @@ learning:
 **Frontend**
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css&logoColor=white)
 
----
+
 
 ### `$ leetcode --stats`
 
@@ -84,6 +83,3 @@ learning:
 
 **→ reach me:** [LinkedIn](https://www.linkedin.com/in/debajit-mandal/) · [GitHub](https://github.com/Debajit753)
 
----
-
-<sub>💬 “Even if it's small, changing someone's life is what matters.” — Himmel</sub>
