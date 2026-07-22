@@ -55,10 +55,10 @@ learning:
 
 | endpoint | what it does | status |
 |:---------|:-------------|:------:|
-| [**HORIZON**](https://github.com/Debajit753/HORIZON) | calm, minimalist browser game — real cities, live sky gradients | 🟢 `live` |
-| [**ASCIIFY**](https://github.com/Debajit753/ASCIIFY) | turns any video into living text | 🟢 `live` |
-| [**researchconnect**](https://github.com/Debajit753/researchconnect) | research workflow mapping tool | 🟢 `live` |
-| **next** | something new is compiling… | 🟡 `building` |
+| [**ASCIIFY**](https://github.com/Debajit753/ASCIIFY) | Turns any video into living text / ASCII art | 🟢 `live` |
+| [**HORIZON**](https://github.com/Debajit753/HORIZON) | Calm, minimalist browser game — real cities, live sky gradients | 🟢 `live` |
+| [**TARA**](https://github.com/Debajit753/TARA) | AI-powered exoplanet detection & classification from noisy light curves | 🟢 `live` |
+| [**nullkey**](https://github.com/Debajit753/nullkey) | Zero-trust P2P encrypted chat app routing over Tor onion services | 🟢 `live` |
 
 ---
 
