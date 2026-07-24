@@ -23,42 +23,36 @@
 
 ```json
 {
-  "name": "Debajit",
   "role": "backend & AI/ML explorer",
   "focus": ["API design", "databases", "machine learning"],
-  "currently_learning": ["deep learning", "model training", "database optimization"],
-  "motto": "the journey itself is the adventure",
-  "response_time": "faster than my APIs"
+  "currently_learning": ["deep learning", "model training", "database optimization"]
 }
 ```
 
 ---
 
-### `$ systemctl status debajit.service`
+### `$ systemctl status`
 
 ```yaml
-service:  debajit.service — Backend & AI/ML Engineer
-active:   building (no downtime recorded)
-tasks:    too many (limit: none)
-memory:   PostgreSQL query plans + model weights
+
 
 learning:
-  - API design .............. 🟢 done
-  - database optimization ... 🟡 in progress
-  - machine learning ........ 🟡 in progress
-  - sleep budget ............ 🔴 exceeded by side-projects
+  - API design .............. in progress
+  - database optimization ... in progress
+  - machine learning ........ in progress
+  - 
 ```
 
 ---
 
 ### `$ ls ~/projects`
 
-| endpoint | what it does | status |
-|:---------|:-------------|:------:|
-| [**ASCIIFY**](https://github.com/Debajit753/ASCIIFY) | Turns any video into living text / ASCII art | 🟢 `live` |
-| [**HORIZON**](https://github.com/Debajit753/HORIZON) | Calm, minimalist browser game — real cities, live sky gradients | 🟢 `live` |
-| [**TARA**](https://github.com/Debajit753/TARA) | AI-powered exoplanet detection & classification from noisy light curves | 🟢 `live` |
-| [**nullkey**](https://github.com/Debajit753/nullkey) | Zero-trust P2P encrypted chat app routing over Tor onion services | 🟢 `live` |
+| endpoint | what it does |
+|:---------|:-------------|
+| [**ASCIIFY**](https://github.com/Debajit753/ASCIIFY) | Turns any video into living text / ASCII art |
+| [**HORIZON**](https://github.com/Debajit753/HORIZON) | Calm, minimalist browser game — real cities, live sky gradients |
+| [**TARA**](https://github.com/Debajit753/TARA) | AI-powered exoplanet detection & classification from noisy light curves |
+| [**nullkey**](https://github.com/Debajit753/nullkey) | Zero-trust P2P encrypted chat app routing over Tor onion services |
 
 ---
 
@@ -85,5 +79,3 @@ learning:
 **→ reach me:** [LinkedIn](https://www.linkedin.com/in/debajit-mandal/) · [GitHub](https://github.com/Debajit753)
 
 ---
-
-<sub>💬 “Even if it's small, changing someone's life is what matters.” — Himmel</sub>
